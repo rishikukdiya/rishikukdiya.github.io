@@ -1,0 +1,5 @@
+438769d Fix projects section update
+c726855 Update SOP Chatbot project in Projects section
+9abfd08 : update remaining LinkedIn URLs in footer
+fede752 Update index.htmlfix: update LinkedIn URL to correct profile rishi-kukadiya-616118273
+5fde811 fix: LinkedIn www prefix + remove Open to Work badge
